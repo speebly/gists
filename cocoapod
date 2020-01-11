@@ -1,0 +1,4 @@
+target 'ClientSDKTestApp' do
+    use_frameworks!
+    pod 'speeblyclientsdk', '0.1.4', :source => "https://github.com/speebly/ios-client-framework-podspec.git"
+end
